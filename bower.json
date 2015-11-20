@@ -13,9 +13,5 @@
     "loader.js": "ember-cli/loader.js#3.2.1",
     "qunit": "~1.18.0",
     "ember-mocha": "~0.8.6"
-  },
-  "resolutions": {
-    "ember": "~2.1.0",
-    "ember-data": "~2.1.0"
   }
 }
